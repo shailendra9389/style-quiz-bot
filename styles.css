@@ -323,7 +323,7 @@ header p {
 }
 
 header h1::before {
-  content: "👗";
+ 
   display: inline-block;
   margin-right: 8px;
   animation: floatIcon 2.5s ease-in-out infinite;
@@ -587,4 +587,20 @@ button:hover {
   .background-text {
     font-size: 20px;
   }
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #dbeafe, #e0f2f1),
+              url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYvqR5dBSNejS89ZcpkGfd8sBLg9m8uEE7aQ&s');
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  animation: fadeIn 1s ease-in-out;
 }

@@ -1,0 +1,13 @@
+USER: 💃 What's my fashion personality?
+BOT: Hey there, fashionista! Let's find your style vibe!  Quick quiz:
+
+1. **Jeans or Dress?**
+2. **Heels or Sneakers?**
+3. **Bold colors or Neutrals?**
+4. **Minimalist or Maximalist?**
+
+Tell me your answers (e.g., Jeans, Sneakers, Bold, Maximalist) and I'll spill the tea on your fashion personality! ✨
+
+USER: 4
+BOT: Hey there, fashion friend!  Just a number?  Tell me more! To give you the best style advice, I need a little more info. What are you looking for?  An outfit idea? A style quiz? Let's get this fashion party started! ✨
+
